@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{62EA5FB4-22ED-46AF-80D1-EB9B81EFE758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{FFD013F6-E8AA-416A-B746-F47E8FE6A118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "ВилдФарм\WildFarm.csproj", "{6CECC1B6-3BCF-461F-A4A7-2E4D2FBEBC14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62EA5FB4-22ED-46AF-80D1-EB9B81EFE758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EA5FB4-22ED-46AF-80D1-EB9B81EFE758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EA5FB4-22ED-46AF-80D1-EB9B81EFE758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EA5FB4-22ED-46AF-80D1-EB9B81EFE758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD013F6-E8AA-416A-B746-F47E8FE6A118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD013F6-E8AA-416A-B746-F47E8FE6A118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD013F6-E8AA-416A-B746-F47E8FE6A118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD013F6-E8AA-416A-B746-F47E8FE6A118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CECC1B6-3BCF-461F-A4A7-2E4D2FBEBC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CECC1B6-3BCF-461F-A4A7-2E4D2FBEBC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CECC1B6-3BCF-461F-A4A7-2E4D2FBEBC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CECC1B6-3BCF-461F-A4A7-2E4D2FBEBC14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC837F68-D6FB-4E48-973F-0E5B9D452FDC}
+	EndGlobalSection
+EndGlobal
